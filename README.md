@@ -1,1 +1,1 @@
-# E533-3D-Pose-Estimates-and-Diffusion-Method
+# Diffusion3DPose
